@@ -1,0 +1,9 @@
+* cl-ca
+
+a common lisp library for cellular automata
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/lukasepple/cl-ca.git |
+| commit  | 6e1868a                                     |
+| systems | cl-ca                                       |
+|---------+---------------------------------------------|
