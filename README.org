@@ -7,3 +7,4 @@ a common lisp library for cellular automata
 | commit  | 6e1868a                                     |
 | systems | cl-ca                                       |
 |---------+---------------------------------------------|
+ 
